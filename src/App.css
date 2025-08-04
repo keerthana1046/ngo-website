@@ -35,3 +35,7 @@ body {
 .about-us li {
   margin-bottom: 0.5rem;
 }
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8f9fa;
+}
